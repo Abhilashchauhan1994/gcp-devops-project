@@ -1,1 +1,5 @@
-# This is our new GCP Devops Project
+# Docker Flask Application
+
+- This application is written in python
+- It uses the flask framework
+- It shall be deployed on GKE
